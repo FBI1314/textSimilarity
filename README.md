@@ -1,3 +1,8 @@
-lsi_similat.py:Ê¹ÓÃLSI·½·¨¼ÆËãÎÄ±¾ÏàËÆ¶È
-sentence2Vector_similary.py:Ê¹ÓÃ´ÊÏòÁ¿ÇóÆ½¾ù¡¢´ÊÏòÁ¿+tfidf¡¢´ÊÏòÁ¿¼ÓÈ¨¼ÆËãÎÄ±¾ÏàËÆ¶È£¨²Î¿¼£ºhttps://blog.csdn.net/walker_hao/article/details/78974781£©
-shotTextSim.py:¼¸ÖÖ¶ÌÎÄ±¾ÏàËÆ¶È¼ÆËã·½·¨
+lsi_similat.py:
+   ä½¿ç”¨LSIæ–¹æ³•è®¡ç®—æ–‡æœ¬ç›¸ä¼¼åº¦
+   
+sentence2Vector_similary.py:
+     ä½¿ç”¨è¯å‘é‡æ±‚å¹³å‡ã€è¯å‘é‡+tfidfã€è¯å‘é‡åŠ æƒè®¡ç®—æ–‡æœ¬ç›¸ä¼¼åº¦ï¼ˆå‚è€ƒï¼šhttps://blog.csdn.net/walker_hao/article/details/78974781ï¼‰
+     
+shotTextSim.py:
+     å‡ ç§çŸ­æ–‡æœ¬ç›¸ä¼¼åº¦è®¡ç®—æ–¹æ³•
